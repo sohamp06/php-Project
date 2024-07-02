@@ -1,0 +1,5 @@
+Sign in success at 2023-11-15 12-28-42. User jdoe@dcmail.ca Sign in.
+Sign out success at 2023-11-15 17-31-31. User jdoe@dcmail.ca Sign out.
+Sign in success at 2023-11-15 17-31-41. User deli@12.ca Sign in.
+Sign out success at 2023-11-15 17-31-57. User deli@12.ca Sign out.
+Sign in success at 2023-11-15 17-32-02. User jdoe@dcmail.ca Sign in.

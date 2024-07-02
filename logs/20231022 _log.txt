@@ -1,0 +1,6 @@
+Sign out success at 2023-10-22 13-01-16. User  Sign out.
+Sign in success at 2023-10-22 13-01-23. User jdoe@dcmail.ca Sign in.
+Sign out success at 2023-10-22 13-54-50. User jdoe@dcmail.ca Sign out.
+Sign in success at 2023-10-22 13-54-56. User jdoe@dcmail.ca Sign in.
+Sign out success at 2023-10-22 15-47-45. User jdoe@dcmail.ca Sign out.
+Sign in success at 2023-10-22 15-47-52. User jdoe@dcmail.ca Sign in.
